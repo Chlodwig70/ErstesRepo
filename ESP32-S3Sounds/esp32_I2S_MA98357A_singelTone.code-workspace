@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "R:/esp32_I2S_MA98357A_singelTone"
+		},
+		{
+			"name": "ESP32-S3Sounds",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
